@@ -10,12 +10,8 @@
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=LSZ128BITS&style=flat-square)
-
-</div>
-<div align="center">
-
 ![](https://img.shields.io/badge/LUNA-STARZ-red?style=for-the-badge)
+![](https://img.shields.io/badge/Hello,-World!-cyan?style=for-the-badge)
 
 ---
 
