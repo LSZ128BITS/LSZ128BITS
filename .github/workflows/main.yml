@@ -1,2 +1,2 @@
-- name: generate-snake-game-from-github-contribution-grid
+- name: snake
   uses: Platane/snk@v3.5.0
